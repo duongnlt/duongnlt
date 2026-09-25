@@ -1,2 +1,2 @@
-# Nguyen Ly Thai Duong
+# Duong Nguyen
 My personal repository.
